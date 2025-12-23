@@ -78,13 +78,8 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 
 ---
-<p align="center">
-  <img src="https://metrics.lecoq.io/amna0x?template=classic&base.activity=1&base.indepth=false&config.timezone=Asia/Karachi" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna0x&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna0x&theme=tokyonight" />
-</p>
+
+
 
 
 <p align="center">
@@ -98,6 +93,10 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna0x&theme=tokyonight&utcOffset=5" />
+</p>
+
+<p align="center">
+  <img src="https://metrics.lecoq.io/amna0x?template=classic&base.activity=1&base.indepth=false&config.timezone=Asia/Karachi" />
 </p>
 
 ---
