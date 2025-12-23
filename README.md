@@ -88,7 +88,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&title_color=FF6EFF&icon_color=FF6EFF" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&theme=tokyonight" />
 </p>
 
 <p align="center">
