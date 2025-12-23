@@ -66,19 +66,22 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## ✨ Signals & Motion (Static Safe Quote)
+## ✨ Signals & Motion
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6EFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Consistency+is+key;⚡+Think+deep,+code+smart;💡+Measure+twice,+commit+once" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6EFF&center=true&vCenter=true&width=520&lines=Consistency+is+key;Think+deep,+code+smart;Measure+twice,+commit+once" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Pseudo-Movement)
 <p align="center">
   <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF6EFF) drop-shadow(0 0 20px #FF00FF);" alt="Snake Contribution Grid" />
 </p>
 
-> ⚠️ **Note:** Snake grid requires the GitHub Action `platane/snk` to run at least once to generate the SVG in the `output` branch.  
+> ⚠️ **Note:** To make the snake “move”:  
+> 1. Install the GitHub Action `platane/snk` in `.github/workflows/snake.yml`.  
+> 2. Make sure `dist/github-contribution-grid-snake-dark.svg` is pushed to the `output` branch.  
+> 3. Action runs daily or via workflow_dispatch → SVG updates → “pseudo animation.”
 
 ---
 
