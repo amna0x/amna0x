@@ -73,7 +73,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-![snake gif](https://github.com/amna0xE/amna0x/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/amna0x/amna0x/blob/output/github-snake-dark.svg)
 
 
 
