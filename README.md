@@ -73,18 +73,27 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 
 ## ✨ Signals & Traces
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&theme=tokyonight" />
-</p>
+---
+
+## ✨ Signals & Motion
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna0x&theme=tokyonight" height="160"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna0x&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
 </p>
 
 ---
 
-## 🧠 Contribution Rhythm
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amna0x&theme=tokyonight&hide_border=true&layout=compact" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&theme=tokyonight" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna0x&theme=tokyonight&utcOffset=5" />
@@ -92,14 +101,9 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 
 ---
 
-## 🌌 Subtle Presence
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=amna0x&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=120&section=footer&animation=fadeIn" />
 </p>
 
----
-
-<p align="center">
   <sub>Quiet consistency • Measured output • Long-term signal</sub>
 </p>
