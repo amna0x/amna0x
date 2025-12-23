@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I’m Amna 👋</h1>
 
 <p align="center">
-🎓 Computer Science Student &nbsp;•&nbsp; 🤖 AI / ML Enthusiast &nbsp;•&nbsp; 🛡️ Security & Systems Curious
+🎓 Computer Science Student &nbsp;•&nbsp; 🤖 AI / ML &nbsp;•&nbsp; 🛡️ Security & Systems &nbsp;•&nbsp; 💙 Flutter Developer
 </p>
 
 <p align="center">
@@ -42,6 +42,8 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 - Linux  
 - Bash  
 
+> Primary UI toolkit: **Flutter** — focused on clean layouts, state management, and performance
+
 ---
 
 ## 🚀 Current Focus
@@ -67,23 +69,12 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
   <sub>📌 Focused on fundamentals • Driven by curiosity • Learning with intent</sub>
 </p>
 
-
-
----
-
-
 ---
 
 ## ✨ Signals & Motion
 
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=amna0x&theme=tokyonight&hide_border=true&layout=compact" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=F7C177&center=true&vCenter=true&width=460&lines=%E2%9C%A8+Keep+coding+%E2%9C%A8;🚀+Consistency+is+key;💡+Think+deep%2C+code+smart" />
 </p>
 
 ---
@@ -101,8 +92,15 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 ---
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1c2c,100:928dab&height=120&section=footer&animation=fadeIn" />
 </p>
 
+<p align="center">
   <sub>Quiet consistency • Measured output • Long-term signal</sub>
 </p>
