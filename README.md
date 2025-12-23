@@ -69,7 +69,7 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 
 ## ✨ Signals & Motion
 <p align="center">
-  <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in&layout=default&font=default" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=FF6EFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Keep+coding+%2F+keep+learning;⚡+Consistency+is+key;💡+Think+deep,+code+smart" />
 </p>
 
 ---
