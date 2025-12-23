@@ -98,7 +98,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 <p align="center">
   <img src="https://metrics.lecoq.io/amna0x?template=classic&base.activity=1&base.indepth=false&config.timezone=Asia/Karachi" />
 </p>
-![Amna's GitHub stats](https://github-readme-stats.vercel.app/api?username=amna0x&count_private=true&show_icons=true&theme=dark)
+
 ---
 
 <p align="center">
