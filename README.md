@@ -12,7 +12,7 @@
 
 ## ✨ Overview
 I am a computer science undergraduate with a strong interest in **AI, ML, cybersecurity, and systems**.  
-I focus on **deep conceptual understanding** and building projects that prioritize **efficiency, maintainability, and correctness**.
+My focus is on **deep conceptual understanding** and building projects that prioritize **efficiency, maintainability, and correctness**.
 
 ---
 
@@ -50,7 +50,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## 💬 
+## 💬 Dashboard Quotes
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=FF6EFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Keep+coding+%2F+keep+learning;⚡+Consistency+is+key;💡+Think+deep,+code+smart" />
 </p>
@@ -65,15 +65,15 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## 🐍 Contribution Grid 
+## 🐍 Contribution Grid Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF6EFF) drop-shadow(0 0 20px #FF00FF);" alt="Snake Contribution Grid" />
 </p>
-
+> ⚠️ **Note:** Snake will only appear after running the GitHub Action (instructions below).  
 
 ---
 
-## 🌌 Capsule Footer 
+## 🌌 Capsule Footer (Pulsing Neon Pink)
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b2f,100:330033&height=120&section=footer&animation=pulse" />
 </p>
