@@ -69,7 +69,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 <p align="center">
   <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF6EFF) drop-shadow(0 0 20px #FF00FF);" alt="Snake Contribution Grid" />
 </p>
-> ⚠️ **Note:** Run the GitHub Action first to generate the snake SVG; placeholder will 404 until then.
+
 
 ---
 
