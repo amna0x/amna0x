@@ -102,7 +102,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b2f,100:330033&height=120&section=footer&animation=pulse" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:33001f,100:330033&height=120&section=footer&animation=pulse" />
 </p>
 
 <p align="center">
