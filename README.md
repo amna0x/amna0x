@@ -71,7 +71,6 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 
 ---
 
-## ✨ Signals & Traces
 
 ---
 
