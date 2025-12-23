@@ -66,19 +66,16 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## ✨ Signals & Motion
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=FF6EFF&center=true&vCenter=true&width=520&lines=Consistency+is+key;Think+deep,+code+smart;Measure+twice,+commit+once" />
 </p>
 
 ---
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/amna0xE/amna0x/blob/output/github-snake-dark.svg)
 
-> ⚠️ **Note:** To make the snake “move”:  
-> 1. Install the GitHub Action `platane/snk` in `.github/workflows/snake.yml`.  
-> 2. Make sure `dist/github-contribution-grid-snake-dark.svg` is pushed to the `output` branch.  
-> 3. Action runs daily or via workflow_dispatch → SVG updates → “pseudo animation.”
+
 
 ---
 
