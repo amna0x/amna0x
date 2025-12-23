@@ -73,10 +73,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## 🐍 Contribution Snake (Pseudo-Movement)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF6EFF) drop-shadow(0 0 20px #FF00FF);" alt="Snake Contribution Grid" />
-</p>
+![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
 
 > ⚠️ **Note:** To make the snake “move”:  
 > 1. Install the GitHub Action `platane/snk` in `.github/workflows/snake.yml`.  
