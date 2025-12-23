@@ -68,15 +68,20 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 ---
 
 ## ✨ Signals & Motion
-<p align="center">
+!--<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=FF6EFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Keep+coding+%2F+keep+learning;⚡+Consistency+is+key;💡+Think+deep,+code+smart" />
-</p>
+</p>--!
 
 ---
 
-<p align="center">
+!--<p align="center">
   <img src="https://metrics.lecoq.io/amna0x?template=classic&base.activity=1&base.indepth=false&config.timezone=Asia/Karachi" />
+</p>--!
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amna0x&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amna0x&theme=tokyonight" />
 </p>
+
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&theme=tokyonight" />
