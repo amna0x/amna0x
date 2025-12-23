@@ -1,49 +1,57 @@
-<h1 align="center">hey, i'm amna 👋</h1>
+<h1 align="center">Hi, I’m Amna 👋</h1>
 
 <p align="center">
-cs student • aspiring ai / security gremlin • terminal enjoyer
+🎓 Computer Science Student &nbsp;•&nbsp; 🤖 AI / ML Enthusiast &nbsp;•&nbsp; 🛡️ Security & Systems Curious
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6E9EFF&center=true&vCenter=true&width=435&lines=computer+science+student;learning+ai+%26+ml;into+cybersecurity+%26+systems;building+cool+stuff+slowly" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&color=7AA2F7&center=true&vCenter=true&width=520&lines=Computer+Science+Undergraduate;Artificial+Intelligence+%26+Machine+Learning;Cybersecurity+%26+Low-Level+Systems;Building+With+Strong+Fundamentals" />
 </p>
 
 ---
 
-### 🧠 about me
-- cs undergrad, currently grinding fundamentals + applied ai  
-- interests: machine learning, cybersecurity, low-level systems, web dev  
-- i like understanding *why* things work, not just making them work  
-- occasional overthinking, frequent refactoring  
+## ✨ Overview
+I am a computer science undergraduate with a strong interest in **artificial intelligence, machine learning, cybersecurity, and computer systems**.  
+My focus is on developing **deep conceptual understanding**, complemented by carefully designed projects that prioritize correctness, clarity, and performance.
+
+I value clean abstractions, thoughtful design, and learning systems from the ground up.
 
 ---
 
-### 🛠️ tech stack
-**languages**
-- python, c/c++, javascript  
-- dart (flutter), basic x86 asm  
-
-**frameworks & tools**
-- react, flutter  
-- node.js, express  
-- git, linux, bash  
-- coursera / deeplearning.ai survivor  
-
-**areas i'm exploring**
-- machine learning & neural nets  
-- backend + apis  
-- security fundamentals (pre-sec → pentesting pipeline)  
+## 🧠 Core Interests
+- 🤖 **Machine Learning & Neural Networks**  
+- 🧩 **Computer Systems & Architecture**  
+- 🔐 **Cybersecurity Fundamentals**  
+- ⚙️ **Performance-Oriented Programming**
 
 ---
 
-### 📌 currently
-- 🌱 learning: machine learning specialization + dsa  
-- 🔭 building: small but serious projects (quality > quantity)  
-- 🧪 experimenting with ui + system design choices  
+## 🛠️ Technical Toolkit
+
+### 💻 Programming Languages
+- Python  
+- C / C++  
+- JavaScript  
+- Dart (Flutter)  
+- x86 Assembly (Foundational)
+
+### 🧰 Tools & Environments
+- React  
+- Flutter  
+- Git & GitHub  
+- Linux  
+- Bash  
 
 ---
 
-### 📊 stats (because capitalism)
+## 🚀 Current Focus
+- 📘 **Learning:** Machine Learning Specialization, Data Structures & Algorithms  
+- 🧪 **Building:** Focused academic and personal projects  
+- 🧭 **Exploring:** System design, optimization, and security-first thinking  
+
+---
+
+## 📊 GitHub Snapshot
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=amna0x&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna0x&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
@@ -51,12 +59,10 @@ cs student • aspiring ai / security gremlin • terminal enjoyer
 
 ---
 
-### 🤝 reach me
-- github: you’re already here  
-- linkedin: *(add when ready, no rush)*  
-
----
+## 🤝 Let’s Connect
+- 🐙 **GitHub:** You’re already here  
+- 💼 **LinkedIn:** Coming soon  
 
 <p align="center">
-<i>“ship slow, think deep, break things responsibly.”</i>
+  <sub>📌 Focused on fundamentals • Driven by curiosity • Learning with intent</sub>
 </p>
