@@ -11,10 +11,8 @@
 ---
 
 ## ✨ Overview
-I am a computer science undergraduate with a strong interest in **artificial intelligence, machine learning, cybersecurity, and computer systems**.  
-My focus is on developing **deep conceptual understanding**, complemented by carefully designed projects that prioritize **efficiency, maintainability, and correctness**.
-
-I value clean abstractions, thoughtful design, and learning systems from the ground up.
+I am a computer science undergraduate with a strong interest in **AI, ML, cybersecurity, and systems**.  
+I focus on **deep conceptual understanding** and building projects that prioritize **efficiency, maintainability, and correctness**.
 
 ---
 
@@ -22,7 +20,7 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 - 🤖 **Machine Learning & Neural Networks**  
 - 🧩 **Computer Systems & Architecture**  
 - 🔐 **Cybersecurity Fundamentals**  
-- ⚙️ **Efficient, Maintainable, and Optimized Code**
+- ⚙️ **Efficient & Optimized Code**
 
 ---
 
@@ -41,14 +39,21 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 - Linux  
 - Bash  
 
-> Primary UI toolkit: **Flutter** — clean layouts, state management, and performance-conscious coding
+> Primary UI toolkit: **Flutter** — clean layouts, state management, performance-conscious
 
 ---
 
 ## 🚀 Current Focus
-- 📘 **Learning:** Machine Learning Specialization, Data Structures & Algorithms  
-- 🧪 **Building:** Focused academic and personal projects  
-- 🧭 **Exploring:** System design, optimization, and security-first thinking  
+- 📘 **Learning:** Machine Learning Specialization, DSA  
+- 🧪 **Building:** Academic & personal projects  
+- 🧭 **Exploring:** System design, optimization, security-first thinking  
+
+---
+
+## 💬 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=500&color=FF6EFF&center=true&vCenter=true&width=520&lines=%E2%9C%A8+Keep+coding+%2F+keep+learning;⚡+Consistency+is+key;💡+Think+deep,+code+smart" />
+</p>
 
 ---
 
@@ -60,35 +65,17 @@ I value clean abstractions, thoughtful design, and learning systems from the gro
 
 ---
 
-## 💬 Quote / Motivation
+## 🐍 Contribution Grid 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&color=00FFFF&center=true&vCenter=true&width=460&lines=%E2%9C%A8+Keep+coding,+keep+learning;⚡+Consistency+is+key;💡+Think+deep,+code+smart" />
+  <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF6EFF) drop-shadow(0 0 20px #FF00FF);" alt="Snake Contribution Grid" />
 </p>
+> ⚠️ **Note:** Run the GitHub Action first to generate the snake SVG; placeholder will 404 until then.
 
 ---
 
-## ✨ Signals & Motion
-
+## 🌌 Capsule Footer 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amna0x&theme=dracula" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna0x&theme=dracula&utcOffset=5" />
-</p>
-
----
-
-## 🐍 Contribution Grid (Neon Cyberpunk Glow)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/amna0x/amna0x/output/github-contribution-grid-snake-dark.svg" style="filter: drop-shadow(0 0 10px #FF00FF) drop-shadow(0 0 20px #00FFFF);" />
-</p>
-
----
-
-## 🌌 Capsule Footer (Pulsing)
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1b1b2f&height=120&section=footer&animation=pulse" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1b1b2f,100:330033&height=120&section=footer&animation=pulse" />
 </p>
 
 <p align="center">
