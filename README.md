@@ -49,9 +49,6 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 ---
 
 
-
----
-
 ## 🤝 Let’s Connect
 - 🐙 **GitHub:** You’re already here  
 - 💼 **LinkedIn:** Coming soon  
@@ -91,9 +88,6 @@ I focus on **deep conceptual understanding** and building projects that prioriti
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=amna0x&theme=tokyonight&utcOffset=5" />
 </p>
 
-<p align="center">
-  <img src="https://metrics.lecoq.io/amna0x?template=classic&base.activity=1&base.indepth=false&config.timezone=Asia/Karachi" />
-</p>
 
 ---
 
@@ -101,6 +95,3 @@ I focus on **deep conceptual understanding** and building projects that prioriti
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6EFF,100:330033&height=120&section=footer&animation=pulse" />
 </p>
 
-<p align="center">
-  <sub>Quiet consistency • Measured output • Long-term signal</sub>
-</p>
