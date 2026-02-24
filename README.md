@@ -31,13 +31,13 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 - C / C++  
 - JavaScript / HTML / CSS  
 - Dart (Flutter)  
-- x86 Assembly (Foundational)
+
 
 ### 🧰 Tools & Environments
 - Flutter  
 - Git & GitHub  
 - Linux  
-- Bash  
+
 
 ---
 
@@ -48,11 +48,7 @@ I focus on **deep conceptual understanding** and building projects that prioriti
 
 ---
 
-## 📊 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amna0x&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amna0x&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+
 
 ---
 
